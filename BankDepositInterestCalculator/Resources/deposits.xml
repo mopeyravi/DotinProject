@@ -1,0 +1,45 @@
+<deposits>
+    <deposit>
+        <customerNumber>5340</customerNumber>
+        <depositType>ShortTerm</depositType>
+        <depositBalance>2</depositBalance>
+        <durationInDays>2</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>48483</customerNumber>
+        <depositType>Qarz</depositType>
+        <depositBalance>2</depositBalance>
+        <durationInDays>2</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>658951</customerNumber>
+        <depositType>LongTerm</depositType>
+        <depositBalance>365</depositBalance>
+        <durationInDays>20</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>56785</customerNumber>
+        <depositType>Default</depositType>
+        <depositBalance>54678755300</depositBalance>
+        <durationInDays>25</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>768</customerNumber>
+        <depositType>ShortTerm</depositType>
+        <depositBalance>-45</depositBalance>
+        <durationInDays>12</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>45</customerNumber>
+        <depositType>ShortTerm</depositType>
+        <depositBalance>5646</depositBalance>
+        <durationInDays>-14</durationInDays>
+    </deposit>
+    <deposit>
+        <customerNumber>7654</customerNumber>
+        <depositType>ShortTerm</depositType>
+        <depositBalance>8765435282999009876008765</depositBalance>
+        <durationInDays>38</durationInDays>
+    </deposit>
+
+</deposits>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="persistence.Facilities" table="FACILITIES">
+        <meta attribute="class-description">This class contains Facilities detail.</meta>
+        <id name="facilitiesID" type="int" column="facilitiesID">
+            <generator class="native"/>
+        </id>
+        <set name="grantConditions" cascade="all">
+            <key column="facilities"/>
+            <one-to-many class="persistence.GrantCondition"/>
+        </set>
+        <property name="typeName" column="typeName" type="string"/>
+        <property name="interestRate" column="interestRate" type="int"/>
+    </class>
+    <class name="persistence.GrantCondition" table="GRANT_CONDITIONS">
+        <meta attribute="class-description">
+            This class contains the certificate records.
+        </meta>
+        <id name="conditionID" type="int" column="conditionID">
+            <generator class="native"/>
+        </id>
+        <property name="name" column="name" type="java.lang.String"/>
+        <property name="maxAgreementAmount" column="maxAgreementAmount" type="java.lang.Long"/>
+        <property name="minAgreementAmount" column="minAgreementAmount" type="java.lang.Long"/>
+        <property name="minAgreementTime" column="minAgreementTime" type="int"/>
+        <property name="maxAgreementTime" column="maxAgreementTime" type="int"/>
+    </class>
+</hibernate-mapping>

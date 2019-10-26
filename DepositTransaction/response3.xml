@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Terminal id="3" type="ATM">
+<server ip="localhost" port="8080"/>
+<transactionResponses>
+<responses status="false" transaction="1"/>
+<responses status="false" transaction="2"/>
+</transactionResponses>
+</Terminal>

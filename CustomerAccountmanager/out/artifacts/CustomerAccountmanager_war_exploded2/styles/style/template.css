@@ -1,0 +1,120 @@
+body {
+	background-color:#000000;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+	font: normal 11px Tahoma, Geneva, sans-serif;
+}
+#mainBar {
+	margin:0px auto;
+	width:1000px;
+	height:100%;
+	background:url(../images/back.png) repeat-x top;
+
+	
+}
+#topBar #logo img {
+	margin:0 auto;
+}
+#topBar {
+	margin:0 auto;
+	width:960px;
+	height:150px;
+}
+#logo {
+	margin:40px auto;
+	float:right;
+	height:100%;
+}
+#makeMeScrollable {
+	width:960px;
+	height: 150px;
+	position: relative;
+	margin:0 auto;
+}
+#makeMeScrollable div.scrollableArea img {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+img.pic {
+	border-style:solid;
+	border-color:black;
+	width:100px;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	height:150px;
+}
+#pic2 {
+	width:150px;
+}
+#pic1, #pic8, #pic4, #pic6 {
+	width:100px;
+}
+#pic3, #pic5, #pic7, #pic10 {
+	width:200px;
+}
+img.pic:hover {
+	opacity:1;
+}
+#middleBar {
+	margin:0 auto;
+	width:960px;
+	height:550px;
+}
+
+#horizontalLinks {
+	font-family:Tahoma, Geneva, sans-serif;
+	padding-left:30px;
+	margin: 20px auto auto;
+	width:780px;
+	height:50px;
+	color:white;
+}
+#horizLink {
+	list-style-type:none;
+	margin:0 auto;
+	padding:0;
+	overflow:hidden;
+}
+li.horizLink {
+	float:left;
+}
+a.horizLink:link, a.horizLink:visited {
+	margin:0 auto;
+	display:block;
+	width:170px;
+	background-color:#900;
+	font-weight:bold;
+	color:#000;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	text-transform:uppercase;
+	border-style:solid;
+	border-color:#000000;
+	-moz-border-radius:0.7em 0px 0.7em 0px;
+	
+}
+a.horizLink:hover, a.horizLink:active {
+	background-color:#d80000;
+	color:#FFFFFF;
+}
+#HorizLink1, #HorizLink2, #HorizLink3, #HorizLink4 {
+	border-style:none;
+}
+#HorizhoverLink1, #HorizvisitLink1, #HorizhoverLink2, #HorizvisitLink2, #HorizhoverLink3, #HorizvisitLink3, #HorizhoverLink4, #HorizvisitLink4 {
+	display:none;
+	border-style:none;
+}
+#Flash {
+	margin:0 auto;
+	width:780px;
+	height:500px;
+	z-index:-1;
+}
+
+#flash {
+	margin: 0 auto;
+	width:780px;
+}

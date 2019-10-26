@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="persistence.Customer" table="CUSTOMER">
+        <id name="customerID" type="java.lang.Integer">
+            <column name="CustomerID"/>
+            <generator class="increment"/>
+        </id>
+        <property name="customerType" type="java.lang.String">
+            <column name="CustomerType" not-null="true"/>
+        </property>
+
+        <joined-subclass name="persistence.RealCustomer" table="REAL_CUSTOMER">
+            <key column="customerID"/>
+            <property name="customerType" column="customerType" type="java.lang.String"/>
+            <property name="firstName" column="firstName" type="java.lang.String"/>
+            <property name="lastName" column="lastName" type="java.lang.String"/>
+            <property name="fatherName" column="fatherName" type="java.lang.String"/>
+            <property name="birthDate" column="birthDate" type="java.lang.String"/>
+            <property name="nationalCode" column="nationalCode" type="java.lang.String"/>
+        </joined-subclass>
+
+        <joined-subclass name="persistence.LegalCustomer" table="LEGAL_CUSTOMER">
+            <key column="customerID"/>
+            <property name="customerType" column="customerType" type="java.lang.String"/>
+            <property name="companyName" column="companyName" type="java.lang.String"/>
+            <property name="economicCode" column="economicCode" type="java.lang.String"/>
+            <property name="submissionDate" column="submissionDate" type="java.lang.String"/>
+        </joined-subclass>
+    </class>
+</hibernate-mapping>

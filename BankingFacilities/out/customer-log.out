@@ -1,0 +1,624 @@
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000412: Hibernate Core {4.3.9.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HHH000043: Configuring from resource: /hibernate.cfg.xml
+HHH000040: Configuration resource: /hibernate.cfg.xml
+HHH000221: Reading mappings from resource: Loan.hbm.xml
+HHH000221: Reading mappings from resource: Customer.hbm.xml
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000221: Reading mappings from resource: LoanFile.hbm.xml
+HHH000041: Configured SessionFactory: null
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/bankdb]
+HHH000046: Connection properties: {user=root, password=****}
+HHH000006: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000399: Using default transaction strategy (direct JDBC transactions)
+HHH000397: Using ASTQueryTranslatorFactory
+New legal customer is defined successfully
+HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/bankdb]
+HHH000043: Configuring from resource: /hibernate.cfg.xml
+HHH000040: Configuration resource: /hibernate.cfg.xml
+HHH000221: Reading mappings from resource: Loan.hbm.xml
+HHH000221: Reading mappings from resource: Customer.hbm.xml
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000221: Reading mappings from resource: LoanFile.hbm.xml
+HHH000041: Configured SessionFactory: null
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/bankdb]
+HHH000046: Connection properties: {user=root, password=****}
+HHH000006: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000399: Using default transaction strategy (direct JDBC transactions)
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000043: Configuring from resource: /hibernate.cfg.xml
+HHH000040: Configuration resource: /hibernate.cfg.xml
+HHH000221: Reading mappings from resource: Loan.hbm.xml
+HHH000221: Reading mappings from resource: Customer.hbm.xml
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000221: Reading mappings from resource: LoanFile.hbm.xml
+HHH000041: Configured SessionFactory: null
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/bankdb]
+HHH000046: Connection properties: {user=root, password=****}
+HHH000006: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000399: Using default transaction strategy (direct JDBC transactions)
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000043: Configuring from resource: /hibernate.cfg.xml
+HHH000040: Configuration resource: /hibernate.cfg.xml
+HHH000221: Reading mappings from resource: Loan.hbm.xml
+HHH000221: Reading mappings from resource: Customer.hbm.xml
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000221: Reading mappings from resource: LoanFile.hbm.xml
+HHH000041: Configured SessionFactory: null
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/bankdb]
+HHH000046: Connection properties: {user=root, password=****}
+HHH000006: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000399: Using default transaction strategy (direct JDBC transactions)
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/bankdb]
+HHH000043: Configuring from resource: /hibernate.cfg.xml
+HHH000040: Configuration resource: /hibernate.cfg.xml
+HHH000221: Reading mappings from resource: Loan.hbm.xml
+HHH000221: Reading mappings from resource: Customer.hbm.xml
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000221: Reading mappings from resource: LoanFile.hbm.xml
+HHH000041: Configured SessionFactory: null
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/bankdb]
+HHH000046: Connection properties: {user=root, password=****}
+HHH000006: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000399: Using default transaction strategy (direct JDBC transactions)
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000043: Configuring from resource: /hibernate.cfg.xml
+HHH000040: Configuration resource: /hibernate.cfg.xml
+HHH000221: Reading mappings from resource: Loan.hbm.xml
+HHH000221: Reading mappings from resource: Customer.hbm.xml
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000221: Reading mappings from resource: LoanFile.hbm.xml
+HHH000041: Configured SessionFactory: null
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/bankdb]
+HHH000046: Connection properties: {user=root, password=****}
+HHH000006: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 20 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+HHH000399: Using default transaction strategy (direct JDBC transactions)
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/bankdb]
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1062, SQLState: 23000
+Duplicate entry '11' for key 'PRIMARY'
+SQL Warning Code: 1062, SQLState: 23000
+Duplicate entry '11' for key 'PRIMARY'
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x98\xC2\xAF...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x87\xC3\x9B\xC2\x8C...' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x98\xC2\xAF...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x87\xC3\x9B\xC2\x8C...' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x98\xC2\xAF...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x87\xC3\x9B\xC2\x8C...' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x98\xC2\xAF...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x87\xC3\x9B\xC2\x8C...' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x81\xD8\xA7\xD8\xB7...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x81\xD8\xA7\xD8\xB7...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xA7\xD8\xAD\xD9\x85...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xA7\xD8\xA8\xD8\xB1...' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x81\xD8\xA7\xD8\xB7...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x81\xD8\xA7\xD8\xB7...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xA7\xD8\xAD\xD9\x85...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xA7\xD8\xA8\xD8\xB1...' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x81\xD8\xA7\xD8\xB7...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x81\xD8\xA7\xD8\xB7...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x84\xD8\xAA' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xAA\xD8\xA8\xD8\xA7' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x84\xDB\x8C\xD8\xAA' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x84\xDB\x8C\xD8\xAA' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xA8\xDB\x8C\xD8\xAA' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xAA\xD8\xA8\xD8\xA7' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xAA\xD8\xA7\xD8\xA8...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xAA\xD8\xA7\xD8\xA8...' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xAA\xDB\x8C\xD8\xAA...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD8\xAA\xD8\xAA' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xDB\x8C\xD8\xA7\xD8\xA7' for column 'companyName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xDB\x8C\xD8\xA7\xD8\xA7' for column 'companyName' at row 1
+Error in inserting legal Customer
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xDB\x8C\xDB\x8C\xDB\x8C' for column 'companyName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xDB\x8C\xDB\x8C\xDB\x8C' for column 'companyName' at row 1
+Error in inserting legal Customer
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+line 1:62: unexpected token: ,
+line 1:62: unexpected token: ,
+line 1:62: unexpected token: ,
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.queryRule(HqlBaseParser.java:772)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectStatement(HqlBaseParser.java:323)
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:186)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:295)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:203)
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:158)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:131)
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:93)
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:167)
+	at org.hibernate.internal.AbstractSessionImpl.getHQLQueryPlan(AbstractSessionImpl.java:301)
+	at org.hibernate.internal.AbstractSessionImpl.createQuery(AbstractSessionImpl.java:236)
+	at org.hibernate.internal.SessionImpl.createQuery(SessionImpl.java:1836)
+	at persistence.CustomerCRUD.listLegalCustomer(CustomerCRUD.java:174)
+	at persistence.BankDB.loadLegalCustomer(BankDB.java:45)
+	at business.AccountManager.searchLegalCustomer(AccountManager.java:20)
+	at presentation.SearchLegalCustomerServlet.doGet(SearchLegalCustomerServlet.java:19)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:620)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1074)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.doRun(AprEndpoint.java:2466)
+	at org.apache.tomcat.util.net.AprEndpoint$SocketProcessor.run(AprEndpoint.java:2455)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xDB\x8C\xD8\xA8\xD9\x84' for column 'companyName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xDB\x8C\xD8\xA8\xD9\x84' for column 'companyName' at row 1
+Error in inserting legal Customer
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x98\xC2\xAF...' for column 'lastName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x8C\xC3\x9B\xC2\x8C' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x8C\xC3\x9B\xC2\x8C' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x84\xC3\x99\xC2\x84' for column 'lastName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x84' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x84' for column 'firstName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x84' for column 'fatherName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x84' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x99\xC2\x87' for column 'firstName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x85\xC3\x98\xC2\xAF...' for column 'lastName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x87\xC3\x9B\xC2\x8C...' for column 'fatherName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'nationalCode' in 'field list'
+SQL Warning Code: 1054, SQLState: 42S22
+Unknown column 'nationalCode' in 'field list'
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'realcustom0_.nationalCode' in 'field list'
+SQL Warning Code: 1054, SQLState: 42S22
+Unknown column 'realcustom0_.nationalCode' in 'field list'
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'nationalCode' in 'field list'
+SQL Warning Code: 1054, SQLState: 42S22
+Unknown column 'nationalCode' in 'field list'
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1054, SQLState: 42S22
+Unknown column 'realcustom0_.nationalCode' in 'field list'
+SQL Warning Code: 1054, SQLState: 42S22
+Unknown column 'realcustom0_.nationalCode' in 'field list'
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1205, SQLState: 41000
+Lock wait timeout exceeded; try restarting transaction
+SQL Warning Code: 1205, SQLState: 41000
+Lock wait timeout exceeded; try restarting transaction
+Error in inserting legal Customer
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x99\xC3\x82\xC2\x85...' for column 'typeName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x99\xC3\x82\xC2\x85...' for column 'typeName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x98\xC3\x82\xC2\xA8...' for column 'typeName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x98\xC3\x82\xC2\xA8...' for column 'typeName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x98\xC3\x82\xC2\xA8...' for column 'typeName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x98\xC3\x82\xC2\xA8...' for column 'typeName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x99\xC3\x82\xC2\x86...' for column 'typeName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xC2\x99\xC3\x82\xC2\x86...' for column 'typeName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+SQL Error: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x86\xD8\xA7\xD9\x85' for column 'typeName' at row 1
+SQL Warning Code: 1366, SQLState: HY000
+Incorrect string value: '\xD9\x86\xD8\xA7\xD9\x85' for column 'typeName' at row 1
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000402: Using Hibernate built-in connection pool (not for production use!)

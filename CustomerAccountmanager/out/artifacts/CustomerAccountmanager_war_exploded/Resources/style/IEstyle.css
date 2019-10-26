@@ -1,0 +1,13 @@
+ul.tabs li {
+	border-radius: 8px 8px 0 0;
+	behavior: url(PIE.htc);
+}
+
+.tab_content {
+	padding: 20px;
+	font:11px Tahoma, Geneva, sans-serif;
+	direction:rtl;
+	text-align:right;
+	float:right;
+
+}

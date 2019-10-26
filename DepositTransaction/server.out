@@ -1,0 +1,13 @@
+Server Starts..
+Server Is Waiting for Request..
+Server Is Waiting for Request..
+A Terminal Connect to Server...	 LocalPort : 8080	Socket Info: Socket[addr=/127.0.0.1,port=49572,localport=8080]	Time: Wed Apr 08 13:31:41 IRDT 2015
+A Terminal Connect to Server...	 LocalPort : 8080	Socket Info: Socket[addr=/127.0.0.1,port=49571,localport=8080]	Time: Wed Apr 08 13:31:41 IRDT 2015
+Server Got a Request...	 TerminalID: 1	TransactionID:	4	Time: Wed Apr 08 13:31:41 IRDT 2015
+	Transaction Type: deposit Amount: 3000	Corresponding Deposit Info: DepositID: 3554637824Deposit Current Balance: 0
+Server Got a Request...	 TerminalID: 2	TransactionID:	1	Time: Wed Apr 08 13:31:41 IRDT 2015
+	Transaction Type: deposit Amount: 3000	Corresponding Deposit Info: DepositID: 3554637824Deposit Current Balance: 0
+Transaction deposit is Done:	true	Corresponding Deposit Info: DepositID: 3554637824 Deposit Current Balance: 3000	TerminalID: 2	Time: Wed Apr 08 13:31:41 IRDT 2015
+Transaction deposit is Done:	true	Corresponding Deposit Info: DepositID: 3554637824 Deposit Current Balance: 3000	TerminalID: 1	Time: Wed Apr 08 13:31:41 IRDT 2015
+Server Sends Back the Response To TerminalID: 1	The TransactionID: 4	Time: Wed Apr 08 13:31:41 IRDT 2015
+Server Sends Back the Response To TerminalID: 2	The TransactionID: 1	Time: Wed Apr 08 13:31:41 IRDT 2015

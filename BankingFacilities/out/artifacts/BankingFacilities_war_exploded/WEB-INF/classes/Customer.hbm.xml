@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="persistence.Customer" table="CUSTOMER">
+        <id name="customerID" type="java.lang.Long">
+            <column name="ID"/>
+            <generator class="increment"/>
+        </id>
+        <property name="customerType" type="java.lang.String">
+            <column name="type" not-null="true"/>
+        </property>
+
+        <joined-subclass name="persistence.RealCustomer" table="real_customer">
+            <key column="ID"/>
+            <property name="firstName" column="firstName" type="java.lang.String"/>
+            <property name="lastName" column="lastName" type="java.lang.String"/>
+            <property name="fatherName" column="fatherName" type="java.lang.String"/>
+            <property name="birthDate" column="birthDate" type="java.lang.String"/>
+            <property name="nationalCode" column="nationalCode" type="java.lang.String"/>
+        </joined-subclass>
+
+        <joined-subclass name="persistence.LegalCustomer" table="legal_customer">
+            <key column="ID"/>
+            <property name="companyName" column="companyName" type="java.lang.String"/>
+            <property name="economicCode" column="ecconomicCode" type="java.lang.String"/>
+            <property name="submissionDate" column="submissionDate" type="java.lang.String"/>
+        </joined-subclass>
+    </class>
+</hibernate-mapping>

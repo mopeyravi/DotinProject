@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+    <servlet>
+        <servlet-name>CreateNewLegalCustomerServlet</servlet-name>
+        <servlet-class>CustomerAccountPresentation.CreateNewLegalCustomerServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>CreateNewRealCustomerServlet</servlet-name>
+        <servlet-class>CustomerAccountPresentation.CreateNewRealCustomerServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>SearchLegalCustomerServlet</servlet-name>
+        <servlet-class>CustomerAccountPresentation.SearchLegalCustomerServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>SearchRealCustomerServlet</servlet-name>
+        <servlet-class>CustomerAccountPresentation.SearchRealCustomerServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <servlet-class>CustomerAccountPresentation.UserLoginServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>UserWelcomeServlet</servlet-name>
+        <servlet-class>CustomerAccountPresentation.UserWelcomeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CreateNewLegalCustomerServlet</servlet-name>
+        <url-pattern>/CreateNewLegalCustomerServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>CreateNewRealCustomerServlet</servlet-name>
+        <url-pattern>/CreateNewRealCustomerServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>SearchLegalCustomerServlet</servlet-name>
+        <url-pattern>/SearchLegalCustomerServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SearchRealCustomerServlet</servlet-name>
+        <url-pattern>/SearchRealCustomerServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UserLoginServlet</servlet-name>
+        <url-pattern>/UserLoginServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UserWelcomeServlet</servlet-name>
+        <url-pattern>/UserWelcomeServlet</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>

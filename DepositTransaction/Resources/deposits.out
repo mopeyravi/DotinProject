@@ -1,0 +1,12 @@
+{
+	Customer: Ali Alavi
+	id: 33227787
+	initialBalance: 0
+	upperBound: 100000
+},
+{
+	Customer: Reza Rezaei
+	id: 3554637824
+	initialBalance: 3000
+	upperBound: 1000000
+},

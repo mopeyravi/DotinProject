@@ -1,0 +1,6 @@
+Terminal Starts..
+Terminal Socket InfoSocket[addr=localhost/127.0.0.1,port=8080,localport=49572]
+Terminal Sent Request:	TransactionID: 4
+Terminal is Waiting for Server Response
+Terminal Receives Server Response:	TransactionID: 4	true
+Terminal Updates Response File...
